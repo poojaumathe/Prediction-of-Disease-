@@ -1,4 +1,4 @@
-# Prediction-of-Disease-
+# Prediction-of-Disease using Machine Learning
 Decision Tree and Random Forest Classification
 
 Predicting if the patient has Kyphosis disease or not with the help of Machine Learning.
